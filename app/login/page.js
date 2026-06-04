@@ -1,4 +1,5 @@
 "use client";
+
 import { useState } from "react";
 import { useRouter } from "next/navigation";
 import api from "@/lib/axios";
@@ -80,4 +81,4 @@ export default function Login() {
       </form>
     </div>
   );
-}
+};
