@@ -605,13 +605,13 @@ export default function Home() {
 
         {/* Footer */}
         <div className="footer-strip">
-          <span className="footer-left">EduPortal · Est. 2024</span>
+          <span className="footer-left">EduPortal · Est. 2026</span>
           <div className="footer-dots">
             <div className="f-dot f-dot-1" />
             <div className="f-dot f-dot-2" />
             <div className="f-dot f-dot-3" />
           </div>
-          <span className="footer-left">Built for Educators</span>
+          <span className="footer-left">Built for Teachers/Educators</span>
         </div>
 
       </div>
